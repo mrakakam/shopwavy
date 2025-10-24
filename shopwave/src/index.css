@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.bellota {
+  font-family: 'Bellota', cursive;
+}
+
+.open-sans {
+  font-family: 'Open Sans', sans-serif;
+}
