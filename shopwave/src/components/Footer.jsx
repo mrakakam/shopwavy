@@ -6,7 +6,7 @@ export const Footer = () => {
           
           {/* Brand Info */}
           <div>
-            <h3 className="text-2xl font-bold text-white bellota mb-4">KGC Store</h3>
+            <h3 className="text-2xl font-bold text-white bellota mb-4">Decor Store</h3>
             <p className="text-gray-400 text-sm">
               Your go-to destination for fresh styles, great deals, and everyday essentials.
             </p>
